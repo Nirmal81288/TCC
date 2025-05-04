@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TCC – Tarayani Coaching Classes</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+    body { background: #f0f8ff; color: #333; }
+    header { background: #004d99; color: white; padding: 30px 20px; text-align: center; }
+    header img { width: 100px; margin-bottom: 10px; }
+    h1 { font-size: 2em; }
+    .tagline { font-size: 1.2em; margin-top: 5px; }
+    .section { padding: 40px 20px; max-width: 900px; margin: auto; background: white; margin-top: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    .section h2 { color: #004d99; margin-bottom: 15px; }
+    ul { margin-left: 20px; }
+    footer { background: #222; color: #ccc; text-align: center; padding: 15px; margin-top: 40px; }
+    .highlight { font-weight: bold; color: #d9534f; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="TCC Logo">
+    <h1>TCC – Tarayani Coaching Classes</h1>
+    <div class="tagline">"Strong Foundation, Bright Future!"</div>
+  </header>
+
+  <section class="section">
+    <h2>Location & Contact</h2>
+    <p><strong>Address:</strong> TCC Building, Opposite HP Petrol Pump, Pinto Park</p>
+    <p><strong>Contact:</strong> <a href="tel:9755147305">9755147305</a></p>
+  </section>
+
+  <section class="section">
+    <h2>Admissions Open!</h2>
+    <p class="highlight">Now enrolling for Classes 6 to 10</p>
+  </section>
+
+  <section class="section">
+    <h2>What We Offer</h2>
+    <ul>
+      <li><strong>Classes 6 to 8:</strong> Complete guidance in all subjects</li>
+      <li><strong>Classes 9 & 10:</strong> Focused preparation in Maths, Science, English & SST</li>
+      <li>Expert and experienced faculty</li>
+      <li>Small batches for personal attention</li>
+      <li>Regular tests and performance analysis</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Join TCC Today</h2>
+    <p>Build a path to academic excellence with the right guidance and support.</p>
+    <p class="highlight">Hurry! Limited Seats Available!</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 TCC – Tarayani Coaching Classes</p>
+  </footer>
+</body>
+</html>
